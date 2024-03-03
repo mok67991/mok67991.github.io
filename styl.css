@@ -1,0 +1,32 @@
+.gg{
+    width: 1400px;
+    height: 100px;
+    background: linear-gradient(RED);
+    font-size: 30px;
+    display: flex;  
+    box-shadow: 1px 1px 5px 1px;
+    position: relative;
+    left: 675px;
+    top: 300px;
+    left: 5px;
+    font-size: 15px;
+}
+.gg ul{
+    display: inline-flex;
+    
+}
+.gg li{
+    margin-left: 200px;
+    list-style-type: none;
+}
+.gg ul li img{
+    width: 100px;
+    height: 70px;
+}
+body{
+font-size: 20px;
+}
+.text{
+    width: 600px;
+    font-family: "Raleway", sans-serif;
+}
